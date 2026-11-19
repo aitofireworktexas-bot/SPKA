@@ -1,6 +1,6 @@
 {
-  "name": "SPKA Technician",
-  "short_name": "SPKA Tech",
+  "name": "SPKA Department",
+  "short_name": "SPKA Dept",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
